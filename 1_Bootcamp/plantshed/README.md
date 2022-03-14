@@ -1,6 +1,6 @@
 # PLANTSHED
 
-A React Project built for Mod 1 covering React forms, react-router, and responsive CSS. This project was also expanded in Mod 3 to practice CI/CD using Docker and AWS. 
+A React Project built for Mod 1 covering React forms, react-router, and responsive CSS. This project was also expanded in Mod 3 to practice CI/CD using Docker and AWS.
 
 ---
 
@@ -23,28 +23,32 @@ PlantShed is one of the most popular plantstores in NYC. Not only do they sell a
 
 ---
 
-## Competencies 
+## Competencies
 
 #JF 1.5
+
 - Knows how teams work effectively to produce software and how
-to contribute appropriately
+  to contribute appropriately
 
 #JF 3.3
+
 - Understands how to develop effective user interfaces
 
 #JF 5.1
+
 - Knows relevant and up-to-date software testing frameworks and
-methodologies
+  methodologies
 
 #JF 6.2
+
 - Understands how to follow company, team or client approaches to
-continuous integration, version and source control
+  continuous integration, version and source control
 
 ---
 
 ## Demo
 
-[Demo](https://plantshed-deploy.herokuapp.com/) 
+![Demo](./demo.gif)
 
 ---
 
@@ -63,11 +67,13 @@ continuous integration, version and source control
 To run this project, install it locally using npm:
 
 ```
-cd plantshed
+$ cd 1_Bootcamp/plantshed
 $ npm install
 $ npm start
 ```
-Then in a parallel terminal:
+
+And in a parallel terminal:
+
 ```
 $ npm run start-dev
 ```
@@ -77,6 +83,7 @@ $ npm run start-dev
 ## Features
 
 Users should be able to:
+
 - sign up and sign in with the login form
 - view plant and coffee inventory
 - add and remove products from a shopping cart
@@ -96,9 +103,9 @@ Stretch Goals:
 
 # Documentation
 
-CI/CD Docker/AWS:  [Documentation](https://docs.google.com/document/d/1slL3HBzbyACMiKK8fbBxgoZxzzHoYpz4Q1bb61ARbpo/edit?usp=sharing)
+CI/CD Docker/AWS: [Documentation](https://docs.google.com/document/d/1slL3HBzbyACMiKK8fbBxgoZxzzHoYpz4Q1bb61ARbpo/edit?usp=sharing)
 
- How to create branch and pull request:
+How to create branch and pull request:
 
 - `git checkout -b newbranchname` (create a new branch for each issue)
 - `git branch` (To confirm which branch you are on)
@@ -118,8 +125,3 @@ CI/CD Docker/AWS:  [Documentation](https://docs.google.com/document/d/1slL3HBzby
 - [Judith Liem](https://github.com/jjliem)
 - [Afreen Safdar](https://github.com/afreensafdar)
 - [Ricardo Salcido](https://github.com/RSalcido2019)
-
-
-
-
-

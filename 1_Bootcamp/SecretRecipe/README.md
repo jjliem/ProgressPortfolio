@@ -46,7 +46,7 @@ compliant with security and maintainability requirements
 
 ## Demo
 
-![Demo](./KrustyDemo.gif)
+![Demo](./demo.gif)
 
 ---
 
