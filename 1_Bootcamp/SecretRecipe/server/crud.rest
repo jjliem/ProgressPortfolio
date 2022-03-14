@@ -1,0 +1,35 @@
+# @hostname = http://localhost:3000
+
+GET {{hostname}}
+###
+GET {{hostname}}/Recipes
+###
+POST {{hostname}}/Recipes
+Content-Type: application/json
+
+{
+    "name" : "Krabby Patty",
+    "ingredients" : "Bun, 1 Patty, Sea Cheese, Sea Onions, Pickles, Ketchup, Mayo"
+}
+###
+PUT {{hostname}}/recipes/2
+Content-Type: application/json
+
+{
+    "name" : "Krabby Patty",
+    "ingredients" : "Bun, 1 Patty, Sea Cheese, Sea Onions, Pickles, Ketchup, Mayo"
+}
+###
+DELETE {{hostname}}/recipes/4
+###
+
+# GET {{hostname}}/auth-endpoint
+# Authorization: my-api-key-321
+
+###
+ 
+#  **************CRUD**************
+#  CREATE = POST
+#  READ = GET
+#  UPDATE = PUT
+#  DELETE = DELETE
