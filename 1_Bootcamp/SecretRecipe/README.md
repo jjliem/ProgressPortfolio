@@ -12,7 +12,6 @@ A React Project built for Mod 2 covering basic authentication, React Frontend, E
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
-- [Documentation](#documentation)
 - [Contact](#contact)
 
 ---
