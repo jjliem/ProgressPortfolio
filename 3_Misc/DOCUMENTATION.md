@@ -33,3 +33,7 @@ In The Code:
 - Explanations for any relevant discrepancies/exceptions
 - Include link to documentation doc
 - Outline code sections clearly
+
+## Sample
+
+![Example](./Documentation_Example.png)
