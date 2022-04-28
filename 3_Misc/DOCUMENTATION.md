@@ -21,10 +21,12 @@ For others:
 ## How I write documentation
 
 Google Doc:
-- Relevant repositories
-- Installation instructions
+- Summary/Description
+- Installation instructions (relevant repos, how to set up locally)
+- Low level diagrams
+- Questions
+- TODO log
 - Development log (errors raised along the way and attempts at fixes)
-- Low level diagrams for understanding code flow
 
 In The Code:
 - Function descriptions (what it does, where to use it, etc)
